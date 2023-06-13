@@ -1,4 +1,4 @@
-```
+```sh
 docker pull mysql:8.0
 
 
@@ -13,6 +13,3 @@ docker exec -it xerxes-mysql bash
 
 docker logs xerxes-mysql
 ```
-
-
-
